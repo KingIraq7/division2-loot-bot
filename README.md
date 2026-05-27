@@ -1,0 +1,1 @@
+# division2-loot-bot
